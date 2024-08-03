@@ -1,0 +1,16 @@
+
+[
+    {
+      "time": 0,
+      "text": "executive: how many days and which location.",
+      "keyword": {"days": "days", "location": "location"},
+      "recommender": [{"image": "img_link", "description": "Recommended Package"}]
+    },
+    {
+      "time": 2000,
+      "text": "user: it will be for 2 days and Manali.",
+      "keyword": {"days": "2", "location": "Manali"},
+      "recommender": [{"image": "img_link2", "description": "Another Recommended Package"}]
+    }
+  ]
+  
